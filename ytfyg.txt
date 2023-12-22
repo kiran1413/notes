@@ -1,0 +1,15 @@
+To buy a Web Hosting:
+1.set up the proxy to QA environment.
+2.open turbify.com in browser.
+3.click on login and give your valid credentials.
+4.Now click on web hosting link (redirect to web hosting page).
+5.click on choose a plan you will go to price cart section.
+6.choose your plan basic, advance, premier.
+7.give a domain name for your web hosting account and click o  search button.
+8.you given domain name will be displayed with TLD,then choose the domain name click on add to cart.
+9.you selected domain item will be added to add cart section  and click on continue.
+10.In Sign up and get things rolling page sign up with your valid credentials and click on continue. 
+11.In billing payment method page give the card details and click on continue.
+12.In review the order and submit page review your order details and enable the accept the terms and conditions check box and click on submit payment button.
+13.In order received page, order confrim number will be displayed and click on get started will be redirected to my services page.
+14.In my services page your order will diaplayed.
